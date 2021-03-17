@@ -26,7 +26,7 @@ Python3.8
 * There are no known bugs at the moment
 
 ### Contact and Support
-In case you have any issue on this project feel free to reach out to me (nadineuwineza2017@gmail.com). Also feel free to make contribtion to the code.
+In case you have any issue on this project feel free to reach out to me (nericmpc@gmail.com). Also feel free to make contribtion to the code.
 
 ### Setup/Installation Requirements
 ### The application requires the following installations to operate
